@@ -33,3 +33,43 @@ justify-content: center;
 nav{
     position: absolute;
 }
+
+.row a img{
+border-radius:  20px;
+}
+
+.wrapper-download{
+    background-image:url(https://b1.filmpro.ru/c/22577.700xp.jpg);
+}
+nav img{
+    padding: 30px;
+
+}
+
+.wrapper-download .row{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin: 0px;
+}
+
+.wrapper-download .row{
+    align-content: space-between
+}
+
+.developer-feedback .row img{
+    width: 300px;
+}
+
+.developer-feedback .links img{
+    width: 10%;
+    height: 10%;
+}
+
+.developer-feedback .row p{
+    padding: 0px 90px;
+}
+
+.developer-feedback .row{
+    width: 10%;
+}
